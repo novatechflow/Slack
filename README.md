@@ -4,3 +4,7 @@ This script needs to be placed at the server who has CM installed, maybe /opt/sl
 
 CM integration:
 https://www.cloudera.com/documentation/enterprise/5-6-x/topics/cm_ag_alert_script.html
+
+---
+
+More from me on data platforms, streaming and IoT: [novatechflow.com](https://www.novatechflow.com)
